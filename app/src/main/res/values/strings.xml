@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">final_project</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">대학교 보내기 게임</string>
+    <string name="nav_header_subtitle">osumaniaddict527@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">게임하기</string>
+    <string name="menu_gallery">명예의 쩐당</string>
+    <string name="menu_slideshow">대나무 숲</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+</resources>
